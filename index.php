@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php
 <html lang="en">
 <head>
 <title>Home</title>
@@ -216,3 +216,4 @@
 <a href="#" id="toTop" class="fa fa-chevron-up"></a>
 </body>
 </html>
+?>
